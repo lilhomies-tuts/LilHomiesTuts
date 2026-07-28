@@ -27,9 +27,9 @@ class Faculty {
 
 // Add faculty members easily using the class instantiation
 const faculties = reactive([
-  new Faculty("R. Bhanuteja Sai", "M.Tech Computer Science", "Programming & Web Systems"),
-  new Faculty("K. S. Rao", "M.Sc Physics", "Intermediate Science"),
-  new Faculty("A. Vikram", "Diploma in Film Making", "Media & Creative Arts")
+  new Faculty("A.Dhanalakshmi", "B.Tech 3rd year", "6-10th, Intermediate"),
+  new Faculty("Ch.Jagadeesh", "B.Tech 3rd year", "6-10th, Tally, MS Office"),
+  new Faculty("D.P.Hussain", "B.Tech 3rd year", "Cinematography, Video Editing"),
 ]);
 </script>
 
