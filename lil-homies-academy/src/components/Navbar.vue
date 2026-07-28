@@ -1,7 +1,7 @@
 <template>
   <header class="navbar glossy-panel">
     <div class="brand">
-      <span class="logo-box">AE</span>
+      <span class="logo-box">LHT</span>
       <span class="title">LIL-HOMIES-TUTS</span>
     </div>
 
