@@ -2,7 +2,7 @@
   <header class="navbar glossy-panel">
     <div class="brand">
       <span class="logo-box">AE</span>
-      <span class="title">ANIME_EDU</span>
+      <span class="title">LIL-HOMIES-TUTS</span>
     </div>
 
     <nav class="nav-links">
@@ -10,7 +10,6 @@
       <a href="#courses">Courses</a>
       <a href="#faculty">Faculty</a>
       <a href="#register">Reg Panel</a>
-      <a href="#about">About</a>
     </nav>
 
     <!-- Manual Display Override Controls -->
